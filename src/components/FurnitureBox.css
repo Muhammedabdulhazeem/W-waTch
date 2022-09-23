@@ -1,0 +1,9 @@
+.home .f-box {
+    position: relative;
+}
+
+.home .f-box span {
+    padding: 0.5rem 1.5rem;
+    position: absolute;
+    background-color: #fff;
+}

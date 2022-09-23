@@ -1,0 +1,17 @@
+.like-cart {
+    position: absolute;
+    bottom: 0.5rem;
+    right: 0.5rem;
+    z-index: 15;
+    display: none;
+}
+.like-cart .like{
+    height: 2rem;
+    width: 2rem;
+    cursor: pointer;
+}
+.like-cart .cart-icon {
+    height: 2rem;
+    width: 2rem;
+    cursor: pointer;
+}

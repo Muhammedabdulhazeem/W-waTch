@@ -1,0 +1,40 @@
+.blog-detail {
+    position: relative;
+}
+
+/* EDITOR */
+.blog-detail .editor{
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    /* margin-top: 2rem; */
+    align-items: center;
+    column-gap: 0.5rem;
+}
+
+.blog-detail .editor span{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.466667px;
+}
+
+.blog-detail .img img {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.blog-detail .img {
+    height: 51px;
+    width: 51px;
+    /* border-radius: 50%; */
+}
+
+@media (max-width: 768px) {
+    .blog-detail .editor{
+        display: none;
+    }
+}
+

@@ -1,0 +1,16 @@
+.cart {
+}
+
+/* HEAD */
+.cart .head {
+    background: linear-gradient(90deg, #F5F8FC 0%, #E7EFF8 100%);
+    height: 7rem;
+    display: flex;
+    align-items: center;
+}
+
+.cart .head h1 {
+    margin-left: 3rem;
+}
+
+

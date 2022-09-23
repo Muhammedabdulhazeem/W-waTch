@@ -1,0 +1,108 @@
+
+/* HEAD */
+.home .head {
+    position: relative;
+    display: grid;
+    margin-top: 2rem;
+    grid-template-columns: 70% 30%;
+    height: 35rem;
+}
+
+.home .head .left {
+    background: linear-gradient(90deg, #F5F8FC 0%, #E7EFF8 100%);
+}
+
+.home .head .right {
+    background: linear-gradient(360deg, #FFFBF8 0%, #FFF5EF 100%);
+    display: flex;
+    align-items: flex-end;
+    position: relative;
+}
+
+.home .r-img-box {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 3;
+}
+
+.home .head .right .shop-now {
+    display: flex;
+    z-index: 4;
+    /* position: absolute; */
+    width: 100%;
+    justify-content: space-between;
+    background-color: #87A2FB;
+    color: #FFFFFF;
+    align-items: center;
+    padding: 3rem 1.5rem;
+}
+
+.home .head .right a {
+    display: contents;
+}
+
+.home .head .texts {
+    position: absolute;
+    top: 10rem;
+    right: 11rem;
+    z-index: 2;
+}
+
+.home .head .texts p{
+    margin: 0;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    letter-spacing: -0.184242px;
+}
+
+.home .head .texts h1{
+    margin: 0;
+    font-weight: 600;
+    font-size: 85px;
+    line-height: 100px;
+    letter-spacing: -1.66px;
+}
+
+.home .head .texts span{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: -0.466667px;
+    color: rgba(44, 46, 63, 0.697549);
+}
+
+
+@media (max-width: 1080px) {
+    
+}
+
+@media (max-width: 768px) {
+    .home .head {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+        background: linear-gradient(90deg, #F5F8FC 0%, #E7EFF8 100%);
+    } 
+    .home .head .right {
+        display: none;
+    }  
+    .home .head .texts {
+        position: static;
+        padding: 2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .home .head .texts h1 {
+        font-size:2.5rem;
+        line-height: 60px;
+    }   
+    .home .head .texts p {
+        font-size: x-large;
+    }
+}

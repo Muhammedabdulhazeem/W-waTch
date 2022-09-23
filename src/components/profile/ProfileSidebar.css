@@ -1,0 +1,21 @@
+.prof-side {
+    background-color: #ECECEE;
+    border-radius: 12px;
+    height: fit-content;
+}
+
+.prof-side .prof-img {
+    height: 13rem;
+    width: 13rem;
+    border-radius: 50%;
+    background-color: aqua;
+    margin: 1rem auto;
+}
+
+.prof-side .prof-info {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.5rem;
+    padding: 0 1rem;
+    margin-bottom: 3rem;
+}

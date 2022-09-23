@@ -1,0 +1,40 @@
+/* .prod-main {
+
+} */
+
+.prod-main .orders, .prod-main .liked {
+    border: 2px solid gray;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.prod-main h2 {
+    margin: 0;
+    margin-bottom: 1rem;
+}
+.prod-main .order-wrap {
+    display: flex;
+    column-gap: 1rem;
+    row-gap: 1.5rem;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* .prod-main .s-product {
+} */
+
+.prod-main .sp-img {
+    border: 2px solid gray;
+    border-radius: 10px;
+    width: 14rem;
+    height: 13rem;
+    margin-bottom: 1rem;
+}
+
+.prod-main .texts {
+    padding: 0 0.5rem;
+    display: flex;
+    row-gap: 0.3rem;
+    flex-direction: column;
+}

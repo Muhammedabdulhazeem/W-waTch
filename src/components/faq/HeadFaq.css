@@ -1,0 +1,109 @@
+/* HEAD */
+.faq .head {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-bottom: 5rem;
+}
+
+.faq .head .left {
+    background-color: #EDF3FA;
+}
+
+.faq .head .right {
+    /* background: linear-gradient(360deg, #FFFBF8 0%, #FFF5EF 100%); */
+    position: relative;
+    padding: 9rem 7rem;
+}
+
+.faq .head .right .discount span {
+    color: #fff;
+    font-size: 30px;
+}
+
+.faq .head .right p {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    letter-spacing: -0.184242px;
+    color: #87A2FB;
+}
+
+.faq .head .right h1{
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 80px;
+    letter-spacing: -1.10667px;
+    color: #333;
+}
+
+.faq .head .right .and{
+    font-weight: 100;
+    font-size: 80px;
+}
+
+.faq .head .right .content > span{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: -0.466667px;
+    color: rgba(44, 46, 63, 0.697549);
+}
+
+.faq .head .right .content > div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+    padding: 1.2rem 2rem;
+    /* width: 30%; */
+    border: 0.1rem solid #87A2FB;
+}
+
+.faq .head .right .content > div span{
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 18px;
+    letter-spacing: 1px;
+    color: #333;
+}
+
+@media (max-width: 1080px) {
+    .faq .head {
+        display: block;
+    }
+    .faq .head .left {
+        display: none;
+    }
+    .faq .head .right .content > div {
+        width: 65%;
+    }
+}
+@media (max-width: 768px) {
+    .faq .head .right{
+        padding: 7rem 4.5rem;
+    }
+    .faq .head .right .content > div span{
+        margin-right: 1rem;
+    }
+}
+@media (max-width: 480px) {
+    .faq .head .right{
+        padding: 0;
+    }
+    .faq .head .right p{
+        font-size: 28px;
+        margin-bottom: 0;
+    }
+    .faq .head .right h1{
+        margin-top: 0.5rem;
+        font-size: 46px;
+        line-height: 60px;
+    }
+    .faq .head .right .content > div{
+        width: 81%;
+        padding: 1rem 1.5rem;
+    }
+    .faq .head .right .content > div span{
+        font-size: 9px;
+    }
+}
