@@ -32,7 +32,7 @@ const GenQus = () => {
                             <p>
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, earum. <br />
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, doloribus? <br />
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, voluptate.
+                                
                             </p>
                         </div>
                     </div>
@@ -48,7 +48,7 @@ const GenQus = () => {
                             <p>
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, earum. <br />
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, doloribus? <br />
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, voluptate.
+                                
                             </p>
                         </div>
                     </div>
@@ -64,7 +64,7 @@ const GenQus = () => {
                             <p>
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, earum. <br />
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, doloribus? <br />
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, voluptate.
+                                
                             </p>
                         </div>
                     </div>
@@ -80,7 +80,7 @@ const GenQus = () => {
                             <p>
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, earum. <br />
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, doloribus? <br />
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, voluptate.
+                                
                             </p>
                         </div>
                     </div>
@@ -96,7 +96,7 @@ const GenQus = () => {
                             <p>
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, earum. <br />
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, doloribus? <br />
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, voluptate.
+                                
                             </p>
                         </div>
                     </div>
@@ -118,7 +118,7 @@ const GenQus = () => {
                             <p>
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, earum. <br />
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, doloribus? <br />
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, voluptate.
+                                
                             </p>
                         </div>
                     </div>
@@ -134,7 +134,7 @@ const GenQus = () => {
                             <p>
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, earum. <br />
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, doloribus? <br />
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, voluptate.
+                                
                             </p>
                         </div>
                     </div>
@@ -150,7 +150,7 @@ const GenQus = () => {
                             <p>
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, earum. <br />
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, doloribus? <br />
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, voluptate.
+                                
                             </p>
                         </div>
                     </div>
@@ -166,7 +166,7 @@ const GenQus = () => {
                             <p>
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, earum. <br />
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, doloribus? <br />
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, voluptate.
+                                
                             </p>
                         </div>
                     </div>
@@ -182,7 +182,7 @@ const GenQus = () => {
                             <p>
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, earum. <br />
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, doloribus? <br />
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, voluptate.
+                                
                             </p>
                         </div>
                     </div>
